@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkztiknh0GWH",
+  "spaceId": "spc73LrCV6vi4",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "ContributionsGraph",
+    "en-US": "ContributionsGraph"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "contributions graph",
+    "en-US": "contributions graph"
+  },
+  "sandbox": true
+}

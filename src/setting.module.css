@@ -1,0 +1,23 @@
+.settingContent { 
+  flex-shrink: 0;
+  width: 319px;
+  border-left: 'solid 1px gainsboro';
+  padding: 16px 22px;
+}
+
+.settingLabel {
+  font-family: 'PingFang SC';
+  padding-bottom: 8px;
+  font-style: normal;
+  font-size: 13px; 
+  color: var(--textCommonTertiary);
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+}
+
+.settingLabel:hover {
+  color: var(--textBrandDefault);
+}
+
+
